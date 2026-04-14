@@ -1,6 +1,6 @@
-## Gravity is here. The home of Gravity Forms. 🚀
+## We build products WordPress professionals trust and rely on. The home of Gravity Forms. 🚀
 
-![Gravity Forms - Build Beautiful, Powerful and Accessible Forms.](https://raw.githubusercontent.com/gravityforms/.github/main/1500x500-2.jpeg)
+<img width="1500" height="500" alt="Gravity Forms - Build Beautiful, Powerful and Accessible Forms" src="https://github.com/user-attachments/assets/2d1dc864-c064-4f91-bcfd-510b544f7968" />
 
 Gravity Forms is the **#1 solution for building professional forms and workflows** with WordPress.
 
